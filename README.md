@@ -1,24 +1,10 @@
 <h1 align="center">Food_Order</h1>
 <h2 align="center" >Food Ordering Website</h2>
 
-![Food_Order](https://github.com/khushi-joshi-05/Food-ordering-website/assets/133582566/1ce766f2-5a3a-49c0-9977-f492834c5916)
+<img width="1271" alt="Screenshot 2024-07-14 at 12 22 05 PM" src="https://github.com/user-attachments/assets/b7348f9a-7993-4d57-9d97-5443dd7fa9f5">
 
 <br>
 
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg) &nbsp;
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website"><img src="https://sloc.xyz/github/khushi-joshi-05/Food-ordering-website" alt="Lines of Code"/></a> &nbsp;
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website/stargazers"><img src="https://img.shields.io/github/stars/khushi-joshi-05/Food-ordering-website" alt="Stars Badge"/></a> &nbsp;
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website/network/members"><img src="https://img.shields.io/github/forks/khushi-joshi-05/Food-ordering-website" alt="Forks Badge"/></a> &nbsp;
-![GitHub contributors](https://img.shields.io/github/contributors/khushi-joshi-05/Food-ordering-website?color=blue) &nbsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/khushi-joshi-05/Food-ordering-website?color=red&style=plastic) &nbsp;
-![Repo. Size](https://img.shields.io/github/repo-size/khushi-joshi-05/Food-ordering-website?color=white) &nbsp;  
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>&nbsp;
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website/issues"><img src="https://img.shields.io/github/issues/khushi-joshi-05/Food-ordering-website?color=0059b3"></a>&nbsp;
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/khushi-joshi-05/Food-ordering-website?color=yellow"></a>&nbsp;
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website/pulls"><img src="https://img.shields.io/github/issues-pr/khushi-joshi-05/Food-ordering-website?color=brightgreen"></a>&nbsp;
-<a href="https://github.com/khushi-joshi-05/Food-ordering-website/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/khushi-joshi-05/Food-ordering-website?color=0059b3"></a> &nbsp;
-
-</br>
 </div>
 
 Foodie is a food ordering website that aims to provide users with a seamless experience for ordering food online, taking orders for pickup, and booking tables for dining in. The website showcases the quality and specialities of the food offered, along with a variety of services to cater to different user preferences.
